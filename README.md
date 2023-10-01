@@ -1,1 +1,1 @@
-Shwetha Krishnamurthy skrishn6
+Shwetha Krishnamurthy skrishn6 UChicago CS Git Tutorial
